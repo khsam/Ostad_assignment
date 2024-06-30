@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ostad_training\\ostad_assignment_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85477F25-6103-45A2-91A0-D497FA28DD9C}|ostad_assignment_1.csproj|d:\\ostad_training\\ostad_assignment_1\\models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85477F25-6103-45A2-91A0-D497FA28DD9C}|ostad_assignment_1.csproj|solutionrelative:models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85477F25-6103-45A2-91A0-D497FA28DD9C}|ostad_assignment_1.csproj|D:\\ostad_training\\ostad_assignment_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85477F25-6103-45A2-91A0-D497FA28DD9C}|ostad_assignment_1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85477F25-6103-45A2-91A0-D497FA28DD9C}|ostad_assignment_1.csproj|d:\\ostad_training\\ostad_assignment_1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85477F25-6103-45A2-91A0-D497FA28DD9C}|ostad_assignment_1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85477F25-6103-45A2-91A0-D497FA28DD9C}|ostad_assignment_1.csproj|d:\\ostad_training\\ostad_assignment_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85477F25-6103-45A2-91A0-D497FA28DD9C}|ostad_assignment_1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85477F25-6103-45A2-91A0-D497FA28DD9C}|ostad_assignment_1.csproj|d:\\ostad_training\\ostad_assignment_1\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85477F25-6103-45A2-91A0-D497FA28DD9C}|ostad_assignment_1.csproj|solutionrelative:models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85477F25-6103-45A2-91A0-D497FA28DD9C}|ostad_assignment_1.csproj|d:\\ostad_training\\ostad_assignment_1\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85477F25-6103-45A2-91A0-D497FA28DD9C}|ostad_assignment_1.csproj|solutionrelative:models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "viewModel.cs",
+              "DocumentMoniker": "D:\\ostad_training\\ostad_assignment_1\\Models\\viewModel.cs",
+              "RelativeDocumentMoniker": "Models\\viewModel.cs",
+              "ToolTip": "D:\\ostad_training\\ostad_assignment_1\\Models\\viewModel.cs",
+              "RelativeToolTip": "Models\\viewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:39:47.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employe.cs",
+              "DocumentMoniker": "D:\\ostad_training\\ostad_assignment_1\\Models\\Employe.cs",
+              "RelativeDocumentMoniker": "Models\\Employe.cs",
+              "ToolTip": "D:\\ostad_training\\ostad_assignment_1\\Models\\Employe.cs",
+              "RelativeToolTip": "Models\\Employe.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:53:44.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "D:\\ostad_training\\ostad_assignment_1\\Models\\Equipment.cs",
+              "RelativeDocumentMoniker": "Models\\Equipment.cs",
+              "ToolTip": "D:\\ostad_training\\ostad_assignment_1\\Models\\Equipment.cs",
+              "RelativeToolTip": "Models\\Equipment.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwB4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T05:41:38.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ostad_training\\ostad_assignment_1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ostad_training\\ostad_assignment_1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwBsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:41:17.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ostad_training\\ostad_assignment_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ostad_training\\ostad_assignment_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T04:27:29.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ostad_training\\ostad_assignment_1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ostad_training\\ostad_assignment_1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T04:26:30.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
